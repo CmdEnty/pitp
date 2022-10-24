@@ -17,7 +17,7 @@ export default function FAQ() {
     },
     {
       icon: <IoMdCash />,
-      text: "Ane teacher has submitted examination results",
+      text: "One teacher has submitted examination results",
     },
   ];
   return (
